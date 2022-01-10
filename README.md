@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+---
+<a href="mailto:suaah.96@gmail.com" target="_black"><img src="https://img.shields.io/badge/suaah.96@gmail.com-62B47A?style=flat-square&logo=Naver&logoColor=white"/></a>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=suaah.96)](https://solved.ac/suaah.96)
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+
+
+### 💪 MY STATS
+![sua-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=sua-h&theme=tokyonight&show_icons=true)
+<hr>
+
 <!--
 **sua-h/sua-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
