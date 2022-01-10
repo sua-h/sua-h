@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-<a href="mailto:suaah.96@gmail.com" target="_black"><img src="https://img.shields.io/badge/suaah.96@gmail.com-62B47A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="mailto:suaah.96@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suaah.96@gmail.com"/></a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=suaah.96)](https://solved.ac/suaah.96)
