@@ -3,9 +3,11 @@
 ---
 <a href="mailto:suaah.96@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suaah.96@gmail.com"/></a>
 
-[![Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suaah_96)](https://solved.ac/suaah_96/)
+
+<!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=suaah_96)](https://solved.ac/suaah_96)
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"> -->
 
 
 ### 💪 MY STATS
