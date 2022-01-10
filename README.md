@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 ---
-<a href="mailto:suaah.96@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suaah.96@gmail.com"/></a>
+<!-- <a href="mailto:suaah.96@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suaah.96@gmail.com"/></a> -->
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suaah.96@gmail.com)](mailto:suaah.96@gmail.com)
+
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suaah_96)](https://solved.ac/suaah_96/) -->
 
