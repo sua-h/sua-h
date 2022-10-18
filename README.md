@@ -3,10 +3,10 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sua-h&theme=dracula&show_icons=true"/>
 
 
-
-### Hi, I'm Su-a! 👋
-
-####  _I hope to be a full stack developer._
+  
+#### I'm Su-a, a growing developer.
+  
+Junior Backend Dev
 
 <h2></h2>
 
