@@ -4,7 +4,7 @@
 
 
   
-#### I'm Su-a, a growing developer.
+#### I'm su-a, a growing developer.
   
 Junior Backend Dev
 
