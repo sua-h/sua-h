@@ -6,7 +6,7 @@
   
 #### I'm su-a, a growing developer.
   
-Junior Backend Dev
+junior backend dev
 
 <h2></h2>
 
